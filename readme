@@ -1,0 +1,21 @@
+Features
+
+🛍️ Product listing and details page
+
+👤 User authentication & admin access
+
+🛒 Shopping cart functionality
+
+💳 Order processing system
+
+🌐 Responsive and fast frontend (Next.js + Tailwind CSS)
+
+📡 REST API powered backend (Express + MongoDB)
+
+Technologies Used
+
+Frontend: Next.js, React, Tailwind CSS
+
+Backend: Node.js, Express.js, MongoDB, Mongoose
+
+Other: dotenv, cors
